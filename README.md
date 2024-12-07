@@ -6,6 +6,8 @@ The client is launched by double-clicking on quick_start.bat on each monitored c
 
 The program can have very different purposes, I wrote this code with the idea that in this way it is possible to monitor university students during tests and exams.
 
+---
+
 ## Overview
 
 This project implements a **Trigger Word Monitoring System** that:
