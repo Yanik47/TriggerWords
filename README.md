@@ -1,4 +1,4 @@
-Trigger Word Monitoring and Notification System
+## Trigger Word Monitoring and Notification System
 
 The server (task2) is installed on the computer of the moderator, who needs to receive some data about what users on other computers enter from the keyboard.
 
